@@ -6,3 +6,9 @@ Image -> Sound: for encryption/storage of sounds in an image. Can transfer sound
   photography and create visual images.
 
 Whatever else the conversion process can do...
+
+See directory 'working_space' for development notes
+--------------------------------------------------------
+## Setup
+
+## Running
